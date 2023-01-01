@@ -2,7 +2,7 @@
 
 Tempat Wisata Pekalongan
 
-Created by Widigda Rahmamukti
+Created by Restu Dwi Saptoaji
 - NIM : 3.34.21.1.20
 - Kelas : IK-2B
 - Angkatan : 2021
