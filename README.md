@@ -7,7 +7,7 @@ Created by Restu Dwi Saptoaji
 - Kelas : IK-2B
 - Angkatan : 2021
 
-![screenshoot](/images/screenshoot.png)
+![screenshoot](/images/screenshot.png)
 
 This project is a starting point for a Flutter application.
 
