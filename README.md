@@ -6,7 +6,8 @@ Created by Restu Dwi Saptoaji
 - NIM : 3.34.21.1.20
 - Kelas : IK-2B
 - Angkatan : 2021
-![screenshoot](http://imgur.com/xkJNJ5c)
+
+![screenshoot](/images/screenshoot.png)
 
 This project is a starting point for a Flutter application.
 
